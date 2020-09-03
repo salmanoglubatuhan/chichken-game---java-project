@@ -1,2 +1,2 @@
 # chichken-game---java-project
-This is a simple 2-D game.
+This is a simple 2-D game will be played by keyboard. A chicken will fall vertically while trying to avoid cats randomly waiting on its path with an open mouth. During this journey, the chicken aims to hit targets appearing left and right sides of its path randomly by using its golden eggs. The eggs will be launched by its mouth. Once a target is hit, the player will get points according to the size of the target.
